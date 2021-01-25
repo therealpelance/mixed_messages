@@ -1,4 +1,4 @@
-let statements = [];
+let statements = ['Today is your day!', 'Your time is now!', 'Tomorrow is a brand new day.', "There's no day like today!", 'No time like the present.', 'Seize the day!', 'Carpe Diem!', "You've got this!", 'The future is in your hands.', 'You have the power.', 'You are a star!', 'The future is yours.', 'You write your own story.', 'The day is yours.', 'The future is here.'];
 let quotes = ['Belive in yourself! Have faith in your abilities! Without a humble but reasonable confidence in your own powers you cannot be successful or happy. - Norman Vincent Peale', 
 'If you can dream it, you can do it. - Walt Disney', 
 'Where there is a will, there is a way. If there is a chance in a million that you can do something, anything, to keep what you want from ending, do it. Pry the door open or, if need be, wedge your foot in that door and keep it open. — Pauline Kael',
