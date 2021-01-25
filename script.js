@@ -14,5 +14,5 @@ let quotes = ['Belive in yourself! Have faith in your abilities! Without a humbl
 "Change your life today. Don’t gamble on the future, act now, without delay. — Simone de Beauvoir",
 "You just can’t beat the person who never gives up. — Babe Ruth",
 'Start where you are. Use what you have. Do what you can. — Arthur Ashe'];
-let challenges = [];
+let challenges = ['Write your story today.', 'Take control of your own life.', "Learn from your mistakes and don't repeat them.", 'Each day is a new opportunity to do better than the last.', "Take advantage of each day you're given.", 'Only you can decide how you react to whatever today brings.', 'Control your attitude and you control your life.', "Don't sweat the small stuff.", 'Find your adventure today.', 'Be your own superhero.', 'Create the change you want to see.', "Let go of what doesn't serve you.", 'Refuse to give up until you have tried every option.', 'Make yourself proud today.', 'Do not let your past be a reflection of your future.'];
 
